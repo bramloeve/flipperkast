@@ -1,0 +1,18 @@
+{
+    "name": "javascript-programma",
+    "version": "1.0.0",
+    "main": "app.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "build:release": "bash scripts/build-release.sh"
+    },
+    "keywords": [],
+    "author": "Steven Slaa",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+      "serialport": "^13.0.0"
+    }
+  }
+  
